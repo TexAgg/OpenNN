@@ -1,3 +1,8 @@
+This is my fork of [OpenNN](http://opennn.net). 
+It is the same as the original except without the tests and examples, which makes the zipfile about 25 times smaller.
+
+---
+
 # OpenNN
 OpenNN is a software library written in C++ for advanced analytics. It implements neural networks, the most successful machine learning method. 
 
